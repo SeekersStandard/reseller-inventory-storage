@@ -1,0 +1,1 @@
+# reseller-inventory-storage
